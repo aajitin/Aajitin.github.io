@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aajitin.github.io/sitemap-index.xml
